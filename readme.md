@@ -1,4 +1,3 @@
-# Lectuer 14 
-## Using DeckGL and Mapbox + D3js to make a geospatial visualization
+# DeckGL and Mapbox + D3js to make a geospatial visualization
 
-### Refer to the slides for the steps description
+### Refer to the slides of Chapter 15 in myCourses for the description
