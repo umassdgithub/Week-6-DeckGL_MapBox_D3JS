@@ -37,5 +37,5 @@
   to the deckGL engine
   </p>
   <div style="display:flex;justify-content: center">
-  <img src="./imgs/Example3.gif" width="400"/>
+  <img src="./imgs/Example4.gif" width="400"/>
   </div>
