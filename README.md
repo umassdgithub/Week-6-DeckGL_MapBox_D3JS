@@ -24,7 +24,16 @@
 
 - <h2>Example 3</h2>
   <p>
-  Using the GeoJsonLayer and GridCellLayer, add the bar marks 
+  Using the GeoJsonLayer and GridCellLayer, add the Grid marks 
+  to the deckGL engine
+  </p>
+  <div style="display:flex;justify-content: center">
+  <img src="./imgs/Example3.gif" width="400"/>
+  </div>
+
+- <h2>Example 4</h2>
+  <p>
+  Using the GeoJsonLayer and  extruded: true, add the 3D view
   to the deckGL engine
   </p>
   <div style="display:flex;justify-content: center">
