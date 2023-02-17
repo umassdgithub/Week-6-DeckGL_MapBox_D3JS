@@ -1,7 +1,7 @@
 # DeckGL and Mapbox + D3js 
 
 ### making a geospatial visualization using DeckGL and Mapbox Basemap
-### Refer to the slides of week 7 in myCourses for the description
+### Refer to the slides of week 6 in myCourses for the description
 
 - <h2>Example 1</h2>
     <p>
